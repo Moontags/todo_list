@@ -10,7 +10,7 @@ A simple and responsive **Todo List** application built using **Laravel**, **Tai
 - Mobile-friendly responsive design with a custom background image.
 
 - ### Desktop View
-![Todo App Screenshot](image/todo.png)
+![Todo App Screenshot](/image/todo.png)
 
 ## Technologies Used
 
